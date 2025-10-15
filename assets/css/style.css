@@ -220,7 +220,7 @@ footer div {
 }
 
 .footer-space::after {
-    content: " |";
+    content: "|";
     color: #8f8f8f;
 }
 
